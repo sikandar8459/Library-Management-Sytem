@@ -1,0 +1,25 @@
+====================================
+	 ** Kaali Groups | Library **
+====================================
+	   ** Student's Details **
+Student ID :- 61071
+Student Name :- Dinesh Shetty
+Roll No :- 1032
+Branch :- Electrical Engineering
+Contact :- 8987654321
+Email :- dineshshetty@gmail.com
+====================================
+            ** Issue Book Details **
+Book ID :- 116754
+Book Name :- JavaScript
+Author Name :- Rishikesh Singh
+
+Issue Date :- 2023-12-30
+Return Date :- 2024-01-14
+
+Fine :- Rs.30 / Day
+** Note
+If you don't return book on return date you will be by fine .i.e Rs. 30 for per Day.
+
+=============Thank You==============
+By Kaali Groups of Library Management System

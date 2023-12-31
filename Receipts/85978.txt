@@ -1,0 +1,25 @@
+====================================
+	 ** Kaali Groups | Library **
+====================================
+	   ** Student's Details **
+Student ID :- 85978
+Student Name :- Rohit Sharma
+Roll No :- 1021
+Branch :- Information Technology
+Contact :- 8765432100
+Email :- rohitsharma@gmail.com
+====================================
+            ** Issue Book Details **
+Book ID :- 256737
+Book Name :- HTML
+Author Name :- Sujit Singh
+
+Issue Date :- 2023-12-29
+Return Date :- 2024-01-13
+
+Fine :- Rs.30 / Day
+** Note
+If you don't return book on return date you will be by fine .i.e Rs. 30 for per Day.
+
+=============Thank You==============
+By Kaali Groups of Library Management System
